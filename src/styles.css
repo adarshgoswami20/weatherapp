@@ -12,7 +12,6 @@ body {
 
 .card {
   background: rgba(0, 0, 0, 0.30);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(11.5px);
   -webkit-backdrop-filter: blur(11.5px);
   border-radius: 10px;
@@ -89,16 +88,4 @@ h1.temp {
   position: absolute;
   top: 0;
   left: 20px;
-}
-
-.js-tilt-glare {
-  border-radius: 10px;
-}
-
-a {
-  margin-top: 7%;
-  color: inherit;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
